@@ -4,7 +4,7 @@
 Welcome to Wachirayar Tochom Assignment README! This document provide some information that may need to prepare
 before start running the automation test
 
-## Need to Robotframework 
+## Need to Run with Robotframework 
 
 ## Library Installation
 - pip install robotframework-seleniumlibrary
